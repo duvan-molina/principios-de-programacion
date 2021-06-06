@@ -4,8 +4,8 @@
 
 - [¿Qué es un programa?](#¿qué-es-un-programa?)
 - [¿Qué es un algoritmo?](#¿qué-es-un-algoritmo?)
-- [¿Qué es un lenguaje de programación?](#¿qué-es-un-lenguaje-de-programacion?)
-- [Tipos de lenguaje de programación](#tipos-de-lenguaje-de-programacion)
+- [¿Qué es un lenguaje de programación?](#¿qué-es-un-lenguaje-de-programación?)
+- [Tipos de lenguaje de programación](#tipos-de-lenguaje-de-programación)
 
 ### ¿Qué es un programa?
 Un programa es un conjunto de pasos lógicos que buscan resolver un problema en espefíco.
